@@ -9,3 +9,6 @@ A Minesweeper game from your command line!
 Actions:
 - open a cell: O [row] [col]
 - flag a cell: F [row] [col]
+
+Example round:
+![](/minesweeper.gif)
